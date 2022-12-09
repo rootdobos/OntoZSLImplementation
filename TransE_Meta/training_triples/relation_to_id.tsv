@@ -1,0 +1,12 @@
+id	label
+0	actRole
+1	canMoveBy
+2	eatFood
+3	hasBehavior
+4	hasBodyPart
+5	hasBodySize
+6	hasColour
+7	hasHabitat
+8	hasTeeth
+9	hasTexture
+10	subClassOf

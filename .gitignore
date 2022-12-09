@@ -5,7 +5,6 @@ __pycache__/
 
 JPEGImages
 training_checkpoints
-TransE_Meta
 testsave
 doctests
 test_pre_stratified_transe
